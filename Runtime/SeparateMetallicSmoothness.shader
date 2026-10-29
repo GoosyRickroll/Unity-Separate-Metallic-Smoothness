@@ -1,4 +1,4 @@
-Shader "Custom/SeparateMetallicSmoothness"
+Shader "Shader "Sheepish90/Separate Metallic & Smoothness""
 {
     Properties
     {
