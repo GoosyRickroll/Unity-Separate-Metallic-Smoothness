@@ -6,6 +6,18 @@ public class SeparateMetallicSmoothnessGUI : ShaderGUI
 {
     public override void OnGUI(MaterialEditor materialEditor, MaterialProperty[] properties)
     {
+        EditorGUILayout.LabelField(
+        "Separate Metallic & Smoothness",
+        EditorStyles.boldLabel
+        );
+
+        EditorGUILayout.LabelField(
+        "Created by Sheepish90",
+        EditorStyles.miniLabel
+        );
+
+        EditorGUILayout.Space(10);
+        
         // Draw the regular inspector, excluding hidden level properties.
         base.OnGUI(materialEditor, properties);
         EditorGUILayout.Space(6);
