@@ -1,0 +1,10 @@
+{
+  "name": "com.sheepish90.separate-metallic-smoothness",
+  "version": "1.0.0",
+  "displayName": "Separate Metallic & Smoothness",
+  "description": "A Unity Built-in Render Pipeline shader with independent metallic and smoothness texture maps and adjustable levels.",
+  "unity": "2022.3",
+  "author": {
+    "name": "sheepish90"
+  }
+}
