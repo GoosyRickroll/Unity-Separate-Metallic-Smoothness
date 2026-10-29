@@ -2,6 +2,9 @@
   "name": "com.goosyrickroll.separate-metallic-smoothness",
   "version": "1.0.0",
   "displayName": "Separate Metallic & Smoothness",
-  "description": "A Unity Built-in Render Pipeline shader with separate metallic and smoothness maps and GIMP-style levels controls.",
-  "unity": "2022.3"
+  "description": "A Unity Built-in Render Pipeline shader with separate metallic and smoothness maps and Levels controls.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Sheepish90"
+  }
 }
